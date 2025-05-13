@@ -1,0 +1,1 @@
+# WHS-Copilot-Frontend
